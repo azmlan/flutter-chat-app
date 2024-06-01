@@ -50,16 +50,16 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB6342OZAed4hQweQvFP4GXdOfosgzbijs',
-    appId: '1:960446977422:android:3bb0349a028e4810b480df',
+    apiKey: 'your_api_key',
+    appId: 'your_app_id',
     messagingSenderId: '960446977422',
     projectId: 'flash-chat-cf60b',
     storageBucket: 'flash-chat-cf60b.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyChfzFbCtwmIcXFHGPRRhwMADuwXL196aA',
-    appId: '1:960446977422:ios:f05d2b89e1a0d322b480df',
+    apiKey: 'your_api_key',
+    appId: 'your_app_id',
     messagingSenderId: '960446977422',
     projectId: 'flash-chat-cf60b',
     storageBucket: 'flash-chat-cf60b.appspot.com',
